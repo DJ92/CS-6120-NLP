@@ -1,0 +1,8 @@
+feed Cyril and give a compliment to Angus
+Ans: λx y z.feed(x) and give(y,z)[Cyril/x, compliment/y, Angus/z]
+
+be loved by everyone
+Ans: λ∃y.(∀x. (love(x,y)))
+
+be loved by everyone and detested by no-one
+Ans: λ∃y.(∀x. (love(x,y)) and -detest(x,y))

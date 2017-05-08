@@ -1,0 +1,1 @@
+Percentage of the time, the “swap” rule A→⟨A A⟩A→⟨A A⟩ was used, in comparison to the “in-order” rule = 71/(713+71) = 9.056%

@@ -1,0 +1,1 @@
+Probability Expression for the given word alignment [wonderful/wunderbar !/!] = −15.4 + −7.8 + -1 = -24.2

@@ -1,0 +1,5 @@
+Using Monotonic Alignment,
+
+Percentage of English words aligned to <e>:= 219 / 756 = 28.9682539683 %
+
+Percentage of German words aligned to <e>:= 205 / 742 = 27.628032345 %

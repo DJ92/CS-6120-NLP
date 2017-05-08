@@ -1,0 +1,8 @@
+Angus likes someone and someone likes Julia.
+Ans: ∃x.∃y.(like(Angus,x) and like(y,Angus) and person(x)) 
+
+Nobody smiles at Pat.
+Ans: ∀x.∃y.-(person(x) and smile(x,y) and Pat(y))
+
+Nobody coughed or sneezed.
+Ans: ∀x.(person(x) and -(cough(x) or sneeze(x)))

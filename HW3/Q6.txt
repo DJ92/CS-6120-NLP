@@ -1,0 +1,7 @@
+All possible word alignments for the given sentence pair:
+
+A -> [A A] -> [wonderful/<e> !/!] = -28.8
+A -> [A A] -> [wonderful/wunderbar !/<e>] = -36.4
+A -> <A A> -> [!/! wonderful/wunderbar] = -25.2
+A -> <A A> -> [!/! wonderful/<e>] = -29.8
+A -> <A A> -> [!/<e> wonderful/wunderbar] = -37.4
